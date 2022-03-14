@@ -1,0 +1,6 @@
+--- 
+my: 
+  appName: "Configuration Client 1"
+  greeting: "KnowledgeHut Welcomes you to Learning Spring Boot Configuration Management with Samarth Narula"
+  list: 
+    values: "apple,banana,Mango"
