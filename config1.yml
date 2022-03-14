@@ -1,5 +1,5 @@
 my: 
-  appName: "Configuration Client 1"
+  appName: "Config Client 1"
   greeting: "KnowledgeHut Welcomes you to Learning Spring Boot Cloud Configuration Management with Samarth Narula"
   list: 
     values: "apple,banana,Mango"
